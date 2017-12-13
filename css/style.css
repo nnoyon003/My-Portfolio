@@ -1,0 +1,143 @@
+.header-section{
+    background-color: #062c33;
+}
+
+.lower-footer{
+    background-color: #062c33;
+    color: white;
+    height: 50px;
+    padding-top: 15px;
+}
+.navbar-nav li a {
+    color: white;
+}
+.navbar li a:hover, #active, #active1,#active2{background:black; }
+.dropdown-menu a:hover{
+    background:black;
+    color: white;
+}
+.top-left i{
+    text-decoration:none;
+    color: white;
+    height: auto;
+    margin: 10px;
+
+}
+
+.top-left i a{
+    color: white;
+    text-decoration:none;
+    background-color: #062c33;
+
+}
+
+
+.social{
+    display: block;
+    text-align: right;
+    padding: 10px;
+}
+
+.social a i{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+
+}
+.social a i:hover{
+
+    color: red;
+    background-color: black;
+
+
+}
+.carousel-caption h1{
+    color: red;
+    background-color: black;
+    opacity: inherit;
+}
+.carousel-caption p{
+    color: red;
+    font-style: inherit;
+    font-size:20px;
+    background-color: black;
+}
+
+
+
+.footer{
+    height:auto;
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+
+
+}
+
+.footer_menu h4{
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 20px;
+    background-color: #062c33;
+}
+
+.footer_menu ul li{
+    list-style: none;
+
+}
+.footer_menu ul li a{
+    color: white;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+
+
+}
+
+.footer_menu ul li a:hover{
+    color:green;
+
+
+}
+.footer-social a i{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+.footer-social a i:hover{
+
+    background-color: black;
+    color: red;
+
+}
+
+.add-section{
+    background: url("../image/slideshow/IIT.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+
+.carousel-item h3{
+    background-color: white;
+    text-align: center;
+}
+
+.carousel-item-padding{
+    margin: 0 auto;
+    color: black;
+    padding: 100px;
+}
+
+#gotoup{
+    background: url("../image/scrolltotop.jpg")no-repeat 0 0; height: 60px; width: 60px; border-radius:50px;
+    bottom: 10px; right: 10px; position: fixed; cursor: pointer ; background-color: #062c33;
+
+}
+
